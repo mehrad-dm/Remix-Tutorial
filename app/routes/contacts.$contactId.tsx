@@ -38,7 +38,7 @@ export default function Contact() {
         {contact.twitter ? (
           <p>
             <a
-              href={`https://twitter.com/${contact.twitter}`}
+              href={`https://x.com/${contact.twitter}`}
             >
               {contact.twitter}
             </a>
